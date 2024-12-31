@@ -1,0 +1,5 @@
+,lower,upper,both,lowerperc,upperperc,bothperc
+%MISSPELLED,0,9,9,0.0,0.75,0.75
+AVG_WLEN,0,0,0,0.0,0.0,0.0
+LOGTYPES,8,0,8,0.67,0.0,0.67
+LOGWORDS,9,0,9,0.75,0.0,0.75

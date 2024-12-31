@@ -1,0 +1,8 @@
+name: aesexpts
+channels:
+  - conda-forge
+  - ets
+dependencies:
+  - python=3.10
+  - rsmtool=12.0.0
+  - pandas>=1.3.3  # Use a version compatible with Python 3.10

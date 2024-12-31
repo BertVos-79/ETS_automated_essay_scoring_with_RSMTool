@@ -1,0 +1,6 @@
+feature,transform,sign
+LOGWORDS,raw,1.0
+LOGTYPES,raw,1.0
+%FUNC,raw,1.0
+AVG_WLEN,raw,1.0
+%MISSPELLED,raw,1.0
